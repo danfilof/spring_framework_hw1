@@ -19,6 +19,7 @@ public class ProductServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         resp.setContentType("text/html;charset=UTF-8");
         resp.getWriter().printf("<html><body>");
+        // creating random int, String and float values for the products to be listed
         int upperbound = 250;
         int lowerbound = 1;
         String[] arr = {"Volvo", "Kinder", "the Beatles vinyl", "Gold", "Pickle", "Flash", "Tent", "Detector", "Lada", "Spider", "Button", "Pie", "Cherry", "Java for chainiki", "Tree"};
