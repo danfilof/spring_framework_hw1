@@ -4,6 +4,18 @@ public class Product {
 
     private final int id;
 
+    public int getId() {
+        return id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public float getCost() {
+        return cost;
+    }
+
     private final String title;
 
     private final float cost;
