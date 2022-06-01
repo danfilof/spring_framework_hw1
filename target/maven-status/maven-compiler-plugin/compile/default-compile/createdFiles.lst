@@ -1,6 +1,8 @@
-com\geekbrains\app\FormResultsServlet.class
-com\geekbrains\app\CalcServlet.class
+com\geekbrains\app\Servlets\ProductServlet.class
+com\geekbrains\app\Product.class
+com\geekbrains\app\Servlets\CalcServlet.class
 com\geekbrains\app\DemoFilter.class
-com\geekbrains\app\FirstServlet.class
-com\geekbrains\app\SecondServlet.class
-com\geekbrains\app\ThirdServlet.class
+com\geekbrains\app\Servlets\SecondServlet.class
+com\geekbrains\app\Servlets\FirstServlet.class
+com\geekbrains\app\Servlets\ThirdServlet.class
+com\geekbrains\app\Servlets\FormResultsServlet.class

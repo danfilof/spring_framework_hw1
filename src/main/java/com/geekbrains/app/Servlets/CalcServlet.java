@@ -1,4 +1,4 @@
-package com.geekbrains.app;
+package com.geekbrains.app.Servlets;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
